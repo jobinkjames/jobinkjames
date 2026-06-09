@@ -3,8 +3,7 @@
 <!-- Animated banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Jobin%20K%20James&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20AI%20Integrator%20%7C%20IoT%20Builder&descAlignY=58&descColor=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=int+main()+%7B+build_the_future();+%7D;while(1)+%7B+innovate();+ship();+repeat();+%7D;%23define+PASSION+embedded_systems+%2B+AI;typedef+engineer_t+jobin_k_james;Nova+%3D+AI+%2B+Malayalam+%2B+RaspberryPi+%2B+%E2%9D%A4;PIC18+%7C+STM32+%7C+ESP32+%7C+Zephyr+%7C+FreeRTOS)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=1000&lines=Embedded+Systems+Engineer;Designing+Reliable+Firmware+for+Connected+Devices;Industrial+Automation+%7C+IoT+%7C+Edge+AI;PIC32+%7C+STM32+%7C+ESP32+%7C+Linux;Building+Scalable+Solutions+from+Prototype+to+Production;MQTT+%7C+Modbus+%7C+CAN+%7C+RS485;Creator+of+Nova+AI+Voice+Assistant;Exploring+AI-Powered+Embedded+Systems;M.Sc+Electronics+%7C+Maker+%7C+Innovator;Building+Technology+That+Makes+a+Difference)](https://git.io/typing-svg)
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=jobinkjames&label=Profile+Views&color=00d4ff&style=flat-square" />
