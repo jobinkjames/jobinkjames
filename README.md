@@ -264,8 +264,6 @@ Industrial Controllers
 ---
 
 
----
-
 ## 🔥 GitHub Metrics 
 
 <div align="center">
