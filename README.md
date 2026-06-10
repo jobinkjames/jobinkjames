@@ -254,7 +254,7 @@ Industrial Controllers
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 coding Activity
 
 <div align="center">
 
@@ -262,6 +262,19 @@ Industrial Controllers
 </div>
 
 ---
+
+
+---
+
+## 🔥 GitHub Metrics 
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jobinkjames/jobinkjames/main/github-metrics.svg" width="70%" />
+
+</div>
+
+
 
 ## 🌐 Let's Connect
 
