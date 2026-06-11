@@ -254,7 +254,7 @@ Industrial Controllers
 
 ---
 
-## 🏆 coding Activity
+## 🏆 Coding Activity
 
 <div align="center">
 
